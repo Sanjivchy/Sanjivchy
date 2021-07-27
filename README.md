@@ -20,6 +20,6 @@
 <a href="https://instagram.com/sanjiiv.chaudhary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sanjiv chy" height="30" width="40" /></a>
 </p>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xoonziip&show_icons=true&locale=en&layout=compact" alt="Sanjiv" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoonziip&" alt="xoonziip" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xoonziip&theme=nord" alt="xoonziip" /></a> </p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjivchy&show_icons=true&locale=en&layout=compact" alt="Sanjiv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjivchy&" alt="xoonziip" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanjivchy&theme=nord" alt="xoonziip" /></a> </p>
