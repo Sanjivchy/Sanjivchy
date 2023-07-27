@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoonziip&label=Profile%20views&color=0e75b6&style=flat" alt="xoonziip"/> </p>
 
-<a style="float:right" href="https://app.daily.dev/xoonziip"><img src="https://api.daily.dev/devcards/5e7649536201468a877b3c3cb02d3e84.png?r=19w" width="400" alt="Sanjiv Chaudhary's Dev Card"/></a>
+
 <p align="left"> <a href="https://twitter.com/SAviduwai" target="blank"><img src="https://img.shields.io/twitter/follow/SAviduwai?color=red&logo=Twitter&style=for-the-badge" alt="SAviduwai" /></a> </p>
     
 - 📫 Email me: **Sanjivchaudhary416@gmail.com**
