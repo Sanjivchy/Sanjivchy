@@ -1,11 +1,7 @@
-Hello
 
 <h1 align="center">Hi 👋, I'm Sanjiv</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoonziip&label=Profile%20views&color=0e75b6&style=flat" alt="xoonziip"/> </p>
-
-
-<p align="left"> <a href="https://twitter.com/SAviduwai" target="blank"><img src="https://img.shields.io/twitter/follow/SAviduwai?color=red&logo=Twitter&style=for-the-badge" alt="SAviduwai" /></a> </p>
     
 - 📫 Email me: **Sanjivchaudhary416@gmail.com**
 
